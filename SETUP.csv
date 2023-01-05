@@ -1,0 +1,10 @@
+Location,CurveRadius(m),Superelevation(mm),Track,RollingStock,Standard
+Location-1,0,0,SM_BT,SM_NWRL.csv,SM
+Location-2,500,80,SM_BT,SM_NWRL.csv,SM
+Location-3,2500,0,SM_BT,SM_NWRL.csv,SM
+Location-4,0,0,SM_CST,SM_NWRL.csv,SM
+Location-5,500,80,SM_CST,SM_NWRL.csv,SM
+Location-6,2500,0,SM_CST,SM_NWRL.csv,SM
+Location-7,0,0,SM_BT,SM_NWRL.csv,SM
+Location-8,-500,80,SM_BT,SM_NWRL.csv,SM
+Location-9,-2500,0,SM_BT,SM_NWRL.csv,SM

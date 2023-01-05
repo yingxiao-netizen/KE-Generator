@@ -1,0 +1,19 @@
+,X,Y,,Kinematic Tolerances,Lateral,60
+Bogey Centre,16150,0,,,Vertical,50
+Body Overhang,3350,0,,,Rotational,2
+Vehicle Width,4270,0,,Structural Gauge (Straight Track),X,Y
+Roll Centre,0,610,,1,0,0
+Outline      Definition ,0,75,,2,2060,0
+,675,75,,3,2060,3800
+,675,0,,4,1525,5400
+,940,0,,5,0,5400
+,940,75,,,,
+,1345,75,,,,
+,1345,150,,,,
+,1450,150,,,,
+,1450,1120,,,,
+,1485,1120,,,,
+,1485,3580,,,,
+,1250,3580,,,,
+,460,4030,,,,
+,0,4270,,,,
